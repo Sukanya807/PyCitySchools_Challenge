@@ -65,7 +65,29 @@ In terms of spending range per student, the schools whose per student budget ran
 
 #### Scores By School Size
 
-In terms of school 
+In terms of school size, there were no changes in scores for small and large schools.Only the scores for medium schools have been affected.
+- % Passing Math reduced from 94% to 88%
+- % Passing Reading reduced from 97% to 91% 
+- % Overall Passing reduced from 91% to 85%
+
+![](images/school_size_original.png)
+
+#### Scores By School Type
+
+In terms of school type, only the scores at Charter level have been affected while the District level remains unchanged.
+- %Passing Math reduced from 94% to 90%
+- % Passing reading reduced from 97% to 93%
+- % overall Passing reduced from 90% to 87%
+
+![](images/school_type_original.png)
+
+#### Summary
+
+Therefore we can conclude that although Thomas High School’s performance remains consistent when we analyze the data based on grades 10 to 12, we can see a significant drop in their overall performance relative to the other schools as we exclude the data about their 9th grade students. Since Thomas High School is a charter school, there has been a decrease in performance of charter schools although their overall average performance is much better compared to the district schools. When analyzed by school size, we can see a drop in performance for medium schools although their overall average performance is much better than large schools. In terms of school budget per student, the data shows that schools with the lowest budget per student have the highest overall performance on an average. Cabrera High school ranks first in terms of overall performance while Johnson High School has the lowest overall passing rate on an average.
+
+Please click here to retrieve the codes for the initial analysis. [Click Here](https://github.com/Sukanya807/PyCitySchools_Challenge/blob/main/PyCitySchools.ipynb)
+
+Please click here to retrieve the codes for the final challenge analysis. [Click Here](https://github.com/Sukanya807/PyCitySchools_Challenge/blob/main/PyCitySchools_Challenge_Final.ipynb)
 
 
 
